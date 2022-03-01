@@ -7,4 +7,4 @@ If you want to know more about me here is the link of my [Linkedin](https://www.
 
 <br/>
 
-[![Issam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Issam-AB)](https://github.com/Issam-AB/github-readme-stats)
+[![Issam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Issam-AB&theme=radical&show_icons=true)](https://github.com/Issam-AB/github-readme-stats)
