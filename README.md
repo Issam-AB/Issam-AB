@@ -6,5 +6,5 @@ Hi y'all. Thank you for taking your time to visit my github profile. My name is 
 If you want to know more about me here is the link of my [Linkedin](https://www.linkedin.com/in/issam-aboulfadl-950004192/). I am mostly active on [twitter](https://twitter.com/Dev_afdl) feel free to connect with me there.
 
 <br/>
-
-[![Issam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Issam-AB&theme=radical&show_icons=true)](https://github.com/Issam-AB/github-readme-stats)
+<!-- 
+[![Issam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Issam-AB&theme=radical&show_icons=true)](https://github.com/Issam-AB/github-readme-stats) -->
