@@ -8,9 +8,9 @@ If you want to know more about me here is the link of my [Linkedin](https://www.
 <br/>
 
 
-[![Issam's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?Issam-AB&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Issam-AB/github-readme-stats#gh-dark-mode-only)
+<!-- [![Issam's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?Issam-AB&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Issam-AB/github-readme-stats#gh-dark-mode-only)
 [![Issam's GitHub stats-Light](https://github-readme-stats.vercel.app/api?Issam-AB&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Issam-AB/github-readme-stats#gh-light-mode-only)
-
+ -->
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
