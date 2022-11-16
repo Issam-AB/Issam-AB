@@ -10,7 +10,8 @@ If you want to know more about me here is the link of my [Linkedin](https://www.
 [![Issam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Issam-AB&theme=radical&show_icons=true)](https://github.com/Issam-AB/github-readme-stats) -->
 <div>
   
-![Issam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Issam-AB&count_private=true&hide_border=true&show_icons=true&hide_title=true&hide=contribs&theme=github_dark)
+<!-- ![Issam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Issam-AB&count_private=true&hide_border=true&show_icons=true&hide_title=true&hide=contribs&theme=github_dark)
 <!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Issam-AB&theme=github_dark&hide_border=true&layout=compact) -->
-</div>
+</div> -->
 
+[![Issam's GitHub stats](https://github-readme-stats.vercel.app/api?Issam-AB)](https://github.com/Issam-AB/github-readme-stats)
